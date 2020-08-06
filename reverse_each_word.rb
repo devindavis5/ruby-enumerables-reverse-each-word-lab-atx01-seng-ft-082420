@@ -3,5 +3,6 @@ array = string.split(' ')
 
 array.each do |element|
   array << element.reverse
-  
+end 
+
 end
