@@ -3,7 +3,6 @@ array = string.split(' ')
 
 array.each do |element|
   element.reverse!
-  array.join
+  array.join(" ")
 end 
-
 end
