@@ -5,4 +5,5 @@ array.each do |element|
   element.reverse!
   array.join
 end 
+array
 end
